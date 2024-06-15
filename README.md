@@ -1,7 +1,5 @@
-### Final Capstone Project
+# Final Capstone Project
 
+**Purpose of the Project** </br>
+The aim of my final project was to apply my skills to a business problem of my choice, in order to demonstrate the skills I have learnt throughout the bootcamp. I generated a hypothesis, analysed internal data, and generated a working model.
 
-
-
-
-Our final project asks you to apply your skills to a business problem of your choice. The capstone is an opportunity for you to demonstrate your new skills and tackle a pressing issue relevant to your team, division, or organization. You’ll generate a hypothesis, analyze internal data, and generate a working model, prototype, solution, or recommendation.
